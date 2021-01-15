@@ -1,0 +1,7 @@
+{
+  "name": "@mfunaki/get-connpass-group",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Masahiko Funaki <mfunaki@mayoct.net>",
+  "license": "MIT"
+}
