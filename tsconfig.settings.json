@@ -2,7 +2,7 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
-            "*": {"packages/*/src"}
+            "*": ["packages/*/src"]
         },
         "outDir": "SHOULD_BE_OVERWRITTEN",
         "declaration": true,
