@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "*": {"packages/*/src"}
+        },
+        "outDir": "SHOULD_BE_OVERWRITTEN",
+        "declaration": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "newLine": "LF",
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "strict": true,
+        "target": "esnext"
+    }
+}
